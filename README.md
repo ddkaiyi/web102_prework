@@ -1,6 +1,6 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *my Webiste*
 
-Submitted by: **Your Name Here**
+Submitted by: **Kaiyi Dai**
 
 **Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
