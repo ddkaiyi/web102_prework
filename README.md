@@ -34,11 +34,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+great challenge because at the last step I need to record the website walkthrough picture, I try to use one app that need to upgrade my mac's system. Now my computer has stuck on black screen. It really freak me out. Finally I try to change my personal webiste using Python flask framework so I can do it on my ipad to reload this website and record it. It really spend me a few hours.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [kaiyi dai]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
